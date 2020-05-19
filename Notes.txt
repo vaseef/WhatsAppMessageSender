@@ -1,0 +1,26 @@
+
+
+class="_2S1VP copyable-text selectable-text"  message text field
+
+Trash item: _2EXPL
+
+class="_2wP_Y"
+
+send button : _35EW6
+
+chat list : _1vDUw B5rWa
+
+IWebDriver.FindElement
+pane-side
+
+_39LWd
+m_driver.FindElements(By.ClassName($"_39LWd"));
+
+class="_2S1VP copyable-text selectable-text"
+m_driver.FindElements(By.ClassName($"_2S1VP copyable-text selectable-text"));
+class="_1Plpp"
+m_driver.FindElements(By.ClassName($"_1Plpp"));
+
+send button:  _35EW6
+
+
