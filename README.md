@@ -11,4 +11,6 @@ Requiured Tools & Packages:
 2. NPM Install: Selenium.WebDriver.3.141.0
 3. NPM Install: Selenium.WebDriver.ChromeDriver.81.0.4044.13800
 
+Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms.
+
 Currently there is a limitation as WhatsApp is loading the chats dynamically into the web UI. So at a time the utility is able to load only 16 chats. This tool further need to be enhanced to load all the messages at the same time.
