@@ -1,6 +1,6 @@
 # Automate Sending Messages via WhatsApp Messenger
 This is a simple example to demonstrate how to send messages via WhatsApp using automated mechanism.
-Please see the video for more details. 
+Please see the video for more details(https://www.youtube.com/watch?v=ZH20y289X6A&t=11s). 
 
 Consider a person who want to send the same message/picture/url to many people say a 1000 groups or individuals. How much time consuming it will be !! This tool will help to automate this situation by identiying and posting messages to each group/individual. 
 
