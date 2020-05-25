@@ -4,7 +4,11 @@ Please see the video for more details(https://youtu.be/9D0lJ-qudjg).
 
 Consider a person who want to send the same message/picture/url to many people say a 1000 groups or individuals. How much time consuming it will be !! This tool will help to automate this situation by searching and posting messages to each group/individual. 
 
-Here we are opening the WhatsApp web in Chrome browser using a C# code and then searching for a chat with specific name. Then placing the message and clicking the send button. All these actions are done through the C# utility.
+Here we are opening the WhatsApp web in Chrome browser using a C# code and then searching for a chat with specific name. Then placing the message and clicking the send button. The utility accepts a comma seperated list of person/group names and the message. Here messages can be a url or a plain text.
+eg: person/group names can be like :Test 1,Test 2,friends,family
+
+
+All these actions are done through the C# utility.
 
 Requiured Tools & Packages:
 1. Visual Studio 2019 with .Net Framework 4.0 or above
@@ -13,3 +17,4 @@ Requiured Tools & Packages:
 
 Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms.
 
+Thank You.
