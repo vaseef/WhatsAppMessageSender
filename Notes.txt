@@ -1,4 +1,18 @@
+Test 2,Test 5,Test 3,Test 4,Test 6,Test 5
+www.google.com
+Search button : C28xL
+SEarch text field : _2S1VP 
+PRess enter
 
+var ele = m_driver.FindElement(By.ClassName("C28xL"));
+ele.Click();
+m_driver.SwitchTo().ActiveElement().SendKeys("Trash");
+
+m_driver.FindElements(By.ClassName("_2wP_Y"));
+
+m_driver.FindElements(By.ClassName("_2wP_Y"))[1].Click();
+
+driver.switchTo().activeElement()
 
 class="_2S1VP copyable-text selectable-text"  message text field
 
@@ -15,7 +29,8 @@ pane-side
 
 _39LWd
 m_driver.FindElements(By.ClassName($"_39LWd"));
-
+_2wP_Y
+m_driver.FindElements(By.ClassName($"_2wP_Y"));
 class="_2S1VP copyable-text selectable-text"
 m_driver.FindElements(By.ClassName($"_2S1VP copyable-text selectable-text"));
 class="_1Plpp"
