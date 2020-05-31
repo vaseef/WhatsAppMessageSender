@@ -22,7 +22,9 @@ Note: As per whatsapp, this kind of automation is not allowed for business purpo
 -WhatsApp Documentation.
 
 -"Please note that if you use anything other than the official WhatsApp Business API or other official WhatsApp tools, we reserve the right to limit or remove your access to WhatsApp as this violates our policies. Please do not use any non-WhatsApp authorized third-party tools to communicate on WhatsApp. To discover the group of third-party providers WhatsApp works with, visit the Partner Directory."
+
 https://www.facebook.com/business/partner-directory/search?platforms=whatsapp&solution_type=messaging
+
 https://developers.facebook.com/docs/whatsapp/overview
 
 Thank You.
